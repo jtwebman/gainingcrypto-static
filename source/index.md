@@ -15,11 +15,17 @@ You might be thinking it can't be that easy. It really is but you have to learn 
 
 Now you might be thinking this is where I sell you my $5000 program on how to do this. Well you would be wrong, I am giving this all away for free. I rather see everyone win then to show on a few richer people how to do it. The only thing I ask is that you do good things with your life.
 
-Here is a little more information on the 4 steps.
+# What is Bitcoin
+
+{% youtube Gc2en3nHxA4 %}
+
+Now that you know what Bitcoin is and a little about them lets start on how to get some.
 
 # Step 1 - Acquire Bitcoin
 
 The easiest way it to purchase bitcoin using an exchange. I use [Coinbase](https://www.coinbase.com/join/542261ad946db70d2a000004) as it is the easiest to use but it might not work in your country. If that is the case you can google `how to buy bitcoin in (your country)`.
+
+[Coinbase](https://www.coinbase.com/join/542261ad946db70d2a000004) is going to ask things like address and make you prove you are who you say you are by sending pictures of your drivers license or passport. This is just like any other exchange in the stock market. Once you are setup you can now link your bank accounts as well as credit cards to the exchange and for a small fee start buying Bitcoin.
 
 Now you might be saying what if I have no money to buy any. Well then I would say it is time to take a serous look at your finances and what you are spending money on. Investing is risky and should only be done with money that isn't going towards your basic needs. I say this out of love as I have been where you are. I started out with $100 a month by eating out less. It is amazing how fast those things add up.
 
