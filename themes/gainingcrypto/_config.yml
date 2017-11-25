@@ -23,7 +23,7 @@ default_post_title: Untitled
 google_analytics:
 
 # set your own favicon
-favicon:
+favicon: /img/favicon.ico
 
 # Social Accounts
 twitter_url: https://twitter.com/jtwebman
