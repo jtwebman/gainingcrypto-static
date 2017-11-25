@@ -1,0 +1,1 @@
+# gainingcrypto-static
