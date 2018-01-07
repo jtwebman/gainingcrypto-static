@@ -9,6 +9,9 @@ menu:
   Instagram:
     url: https://instagram.com/jtwebman
     icon: instagram
+  YouTube:
+    url: https://youtube.com/jtwebman
+    icon: youtube
 
 # Title on top left of menu. Leave empty to use main blog title
 menu_title:
@@ -29,6 +32,8 @@ favicon: /img/favicon.ico
 twitter_url: https://twitter.com/jtwebman
 twitter_handle: jtwebman
 facebook_url: https://facebook.com/jtwebman
+instagram_url: https://instagram.com/jtwebman
+youtube_url: https://youtube.com/jtwebman
 github_url:
 gitlab_url:
 linkedin_url:
