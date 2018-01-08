@@ -23,7 +23,7 @@ index_cover: /img/bg-cover-bitcoin.jpg
 default_post_title: Untitled
 
 # Google Analytics Tracking ID
-google_analytics:
+google_analytics: UA-112096760-1
 
 # set your own favicon
 favicon: /img/favicon.ico
